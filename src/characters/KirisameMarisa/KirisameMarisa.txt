@@ -1,0 +1,31 @@
+人物名: 雾雨魔理沙
+属性: 80 3 12 8 9 120
+缩写: 魔
+种族: 人类
+符卡: 
+魔符「Milky Way」（银河）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+魔空「Asteroid Belt」（小行星带）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+魔符「Stardust Reverie」（星尘幻想）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+黑魔「Event Horizon」（黑洞边缘）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+恋符「Non-Directional Laser」（非定向光线）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+恋风「Starlight Typhoon」（星光台风）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+恋符「Master Spark」（极限火花）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+恋心「Double Spark」（二重火花）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+光符「Earth Light Ray」（地球光）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+光击「Shoot the Moon」（射月）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+魔炮「Final Spark」（究极火花）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+魔炮「Final Master Spark」（超究极火花）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+「Blazing Star」（彗星）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null

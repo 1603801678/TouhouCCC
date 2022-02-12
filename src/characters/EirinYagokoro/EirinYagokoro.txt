@@ -1,0 +1,29 @@
+人物名: 八意永琳
+属性: 120 0 9 10 12 98
+缩写: 永
+种族: 月人
+符卡: 
+天丸「壶中的天地」
+1 4 120 enemyall 0 0 0 0 0 1 5 3 10 null
+觉神「神代的记忆」
+3 3 100 front 0 1 5 1 0 0 0 0 0 null
+神符「天人的族谱」
+3 3 100 front 20 0 0 0 10 0 0 0 0 null
+苏活「生命游戏 -Life Game-」
+0 3 0 self 30 0 5 2 10 0 0 0 0 null
+苏生「Rising Game」
+0 4 0 self 45 1 10 3 13 0 0 0 0 null
+操神「Omoikane Device」（思兼装置）
+3 2 100 single 0 0 0 0 0 0 3 1 3 null
+神脑「Omoikane Brain」（思兼的头脑）
+3 3 100 front 0 0 0 0 0 0 3 1 3 null
+天咒「Apollo 13」（阿波罗13）
+5 5 120 enemyall 0 0 0 0 0 0 5 8 0 null
+秘术「天文密葬法」
+0 3 0 selfall 10 1 3 0 5 0 0 0 0 null
+禁药「蓬莱之药」
+0 5 0 selfall 50 1 3 5 0 0 0 0 0 null
+药符「壶中的大银河」
+2 6 120 enemyall 0 0 0 0 0 2 8 6 20 null
+「天网蛛网捕蝶之法」
+5 6 128 enemyall 0 0 0 0 0 0 0 0 0 null

@@ -1,0 +1,67 @@
+人物名: 蓬莱山辉夜
+属性: 100 3 10 10 10 90
+缩写: 夜
+种族: 月人
+符卡: 
+难题「龙颈之玉　-五色的弹丸-」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+神宝「Brilliant Dragon Bullet」（耀眼的龙玉）
+4 4 103 X 0 0 0 0 0 0 0 0 0 null
+难题「佛御石之钵　-不碎的意志-」
+0 2 0 self 0 0 10 1 0 0 0 0 0 null
+神宝「Buddhist Diamond」（佛体的金刚石）
+0 3 0 self 20 0 15 2 0 0 0 0 0 null
+难题「火鼠的皮衣　-不焦躁的内心-」
+0 3 0 self 0 0 10 0 5 0 0 0 0 null
+神宝「Salamander Shield」（火蜥蜴之盾）
+0 4 0 selfall 0 0 8 1 0 0 0 0 0 null
+难题「燕的子安贝　-永命线-」
+0 2 0 self 30 0 0 0 0 0 0 0 0 null
+神宝「Life Spring Infinity」（无限的生命之泉）
+0 4 0 selfall 20 0 0 0 0 0 0 0 0 null
+难题「蓬莱的弹枝　-七色的弹幕-」
+4 3 100 X 0 0 0 0 0 0 0 0 0 null
+神宝「蓬莱的玉枝　-梦色之乡-」
+5 3 100 single 0 0 0 0 0 1 6 1 0 null
+「永夜归返　-初月-」
+2 3 100 enemyall 0 0 0 0 0 0 0 0 0 null
+「永夜归返　-新月-」
+0 3 0 selfall 10 0 0 0 0 0 0 0 0 null
+「永夜归返　-上弦月-」
+0 3 0 selfall 0 1 0 0 0 0 0 0 0 null
+「永夜归返　-待宵-」
+0 3 0 selfall 0 0 5 0 0 0 0 0 0 null
+「永夜归返　-子之刻-」
+0 3 0 selfall 0 0 0 4 0 0 0 0 0 null
+「永夜归返　-子时二刻-」
+0 3 0 selfall 0 0 0 0 8 0 0 0 0 null
+「永夜归返　-子时三刻-」
+0 3 100 enemyall 0 0 0 0 0 1 0 0 0 null
+「永夜归返　-子时四刻-」
+0 3 100 enemyall 0 0 0 0 0 0 5 0 0 null
+「永夜归返　-丑之刻-」
+0 3 100 enemyall 0 0 0 0 0 0 0 4 0 null
+「永夜归返　-丑时二刻-」
+0 3 100 enemyall 0 0 0 0 0 0 0 0 8 null
+「永夜归返　-丑时三刻-」
+2 3 100 enemyall 0 0 0 0 0 0 0 0 0 null
+「永夜归返　-丑时四刻-」
+0 3 0 selfall 10 0 0 0 0 0 0 0 0 null
+「永夜归返　-寅之刻-」
+0 3 0 selfall 0 1 0 0 0 0 0 0 0 null
+「永夜归返　-寅时二刻-」
+0 3 0 selfall 0 0 5 0 0 0 0 0 0 null
+「永夜归返　-寅时三刻-」
+0 3 0 selfall 0 0 0 4 0 0 0 0 0 null
+「永夜归返　-寅时四刻-」
+0 3 0 selfall 0 0 0 0 8 0 0 0 0 null
+「永夜归返　-朝霭-」
+0 3 100 enemyall 0 0 0 0 0 1 0 0 0 null
+「永夜归返　-拂晓-」
+0 3 100 enemyall 0 0 0 0 0 0 5 0 0 null
+「永夜归返　-破晓明星-」
+0 3 100 enemyall 0 0 0 0 0 0 0 4 0 null
+「永夜归返　-世间开明-」
+0 3 100 enemyall 0 0 0 0 0 0 0 0 8 null
+「蓬莱的树海」
+3 6 120 all 0 0 0 0 0 2 8 4 10 null

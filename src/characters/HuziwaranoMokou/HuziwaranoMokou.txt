@@ -1,0 +1,29 @@
+人物名: 藤原妹红
+属性: 110 0 12 8 10 110
+缩写: 红
+种族: 人类
+符卡: 
+时效「月岩笠的诅咒」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+不死「火鸟　-凤翼天翔-」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+藤原「灭罪寺院伤」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+不死「徐福时空」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+灭罪「正直者之死」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+虚人「无」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+不灭「不死鸟之尾」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+蓬莱「凯风快晴　-Fujiyama Volcano-」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+「Possessed by Phoenix」（不死鸟附体）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+「蓬莱人形」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+「Imperishable Shooting」（不朽的弹幕）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+「不死鸟重生」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null

@@ -1,0 +1,23 @@
+人物属性：100 3 10 10 10 100
+生命值hp
+灵力mp
+攻击atk
+防御def
+技巧tec
+速度spd
+
+符卡属性：5 3 100 single 0 0 0 0 0 0 0 0 0 null
+攻击
+灵力
+命中
+范围(single enemyall - | + X front back self selfall all)
+自生命值
+自攻击
+自防御
+自技巧
+自速度
+敌攻击
+敌防御
+敌技巧
+敌速度
+调用

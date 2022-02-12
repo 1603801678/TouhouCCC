@@ -1,0 +1,23 @@
+人物名: 铃仙·优昙华院·因幡
+属性: 120 0 11 12 9 108
+缩写: 铃
+种族: 月兔
+符卡: 
+波符「赤眼催眠(Mind Shaker)」（心灵颤动）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+幻波「赤眼催眠(Mind Blowing)」（心灵风暴）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+狂符「幻视调律(Visionary Tuning)」（幻视调律）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+狂视「狂视调律(Illusion Seeker)」（幻觉追迹者）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+懒符「生神停止(Idling Wave)」（惰性之波）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+懒惰「生神停止(Mind Stopper)」（心灵制止）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+散符「真实之月(Invisible Full Moon)」（隐形满月）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+月眼「月兔远程催眠术(Tele-Mesmerism)」（远程催眠）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+「幻胧月睨(Lunatic Red Eyes)」（疯狂红眼）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null

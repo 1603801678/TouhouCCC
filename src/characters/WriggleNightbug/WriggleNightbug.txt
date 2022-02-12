@@ -1,0 +1,23 @@
+人物名: 莉格露·奈特巴格
+属性: 80 0 80 11 11 103
+缩写: 虫
+种族: 妖虫
+符卡: 
+萤符「地上的流星」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+萤符「地上的彗星」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+灯符「Firefly Phenomenon」（萤光现象）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+蠢符「Little Bug」（小虫）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+蠢符「Little Bug Storm」（小虫风暴）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+蠢符「Night Bug Storm」（夜虫风暴）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+蠢符「Night Bug Tornado」（夜虫龙卷）
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+隐虫「永夜蛰居」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
+「不合时令的蝶雨」
+5 3 100 single 0 0 0 0 0 0 0 0 0 null
